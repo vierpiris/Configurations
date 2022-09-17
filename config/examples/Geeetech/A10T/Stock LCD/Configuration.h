@@ -1782,7 +1782,7 @@
   #define NUM_RUNOUT_SENSORS   3          // Number of sensors, up to one per extruder. Define a FIL_RUNOUT#_PIN for each.
   #define FIL_RUNOUT_PIN      66
   #define FIL_RUNOUT2_PIN     67
-  #define FIL_RUNOUT3_PIN     68
+  #define FIL_RUNOUT3_PIN     54
 
   #define FIL_RUNOUT_STATE     HIGH       // Pin state indicating that filament is NOT present.
   #define FIL_RUNOUT_PULLUP               // Use internal pullup for filament runout pins.
